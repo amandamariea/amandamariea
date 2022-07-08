@@ -19,5 +19,10 @@ You can click the Preview link to take a look at your changes.
 --- 
 
 
+On GitHub, navigate to the /docs/assets directory.
+Click the Add file button, then choose Upload files.
+
+
+
 
 
